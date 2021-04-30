@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 I'm Jacob.
 
-<!--
-**Jakub-Bielawski/Jakub-Bielawski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m working on tinyML project based on ESP-EYE dev-kit for image calsiffication
+- 🌱 I’m learning how to handle chaos in code. Also basics of machine learnig, computer vison and signal processing.
+- 💼 Working as a embedded computer vison and machine learnig developer.
+- 💬 Ask me about what you want!
+- 🏅 🧗 🚴‍♂️ 
+- 🥾 ⚗️ ⛵ 🛶 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+<a href="https://github.com/Jakub-Bielawski">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jakub-Bielawski&theme=onedark&show_icons=true" />
+</a>
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Jakub-Bielawski)
